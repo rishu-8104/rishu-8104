@@ -104,6 +104,11 @@ In a hackathon, we built a smart home energy-saving solution using AWS services 
 <img width="600" alt="aws" src="https://user-images.githubusercontent.com/84739698/224552135-2b2a5c46-59d4-4655-bec0-8d0a97e81e61.png">
 
 
+
+https://user-images.githubusercontent.com/84739698/224564721-f6b779eb-3e42-4434-9168-b9945ce63a73.mp4
+
+
+
 ### Microsoft Inclusive city hackathon (2022)
 
 As a hackathon participant, I'm thrilled to have won with my burnout recovery app created using Microsoft Power Apps. It was a challenging yet rewarding experience to design an app that could make a positive impact on people's lives. I'm proud to have used my technical skills and creativity to develop a tool that can help individuals struggling with burnout.
