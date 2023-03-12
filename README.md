@@ -47,6 +47,13 @@ This website displays the latest image and description provided by NASA's APOD A
 
 <img width="1344" alt="game" src="https://user-images.githubusercontent.com/84739698/224550985-86dddf03-4f30-4374-9b08-3d51bab7102e.png">
 
+### Hotel Room Booking Program (C++)
+
+This C++ program allows users to book hotel rooms, view all booked rooms, search for a specific room, check out of a room, and exit the program.
+
+<img width="477" alt="Screenshot 2023-03-12 at 5 21 11 PM" src="https://user-images.githubusercontent.com/84739698/224554486-2354446a-6205-45d9-bcf6-81a574845f61.png">
+
+
 ## Hackathons
 
 ### AWS Hackathon (2022)
