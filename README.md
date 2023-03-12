@@ -38,6 +38,7 @@ This website displays the latest image and description provided by NASA's APOD A
 <img width="1440" alt="Screenshot 2023-03-12 at 4 16 36 PM" src="https://user-images.githubusercontent.com/84739698/224550519-9a015a87-d11f-481c-a2e4-45ea83fa62a2.png">
 
 ### Games projects
+
 #### These projects were created as part of the "The Complete 2021 Web Development Bootcamp" course on Udemy.
 
 1. Simon game that features sounds for each button press. The game displays a sequence of button presses and requires the user to repeat the sequence correctly. Each level increases the number of button presses in the sequence.
@@ -46,6 +47,22 @@ This website displays the latest image and description provided by NASA's APOD A
 
 <img width="1344" alt="Screenshot 2023-03-12 at 4 24 46 PM" src="https://user-images.githubusercontent.com/84739698/224550985-86dddf03-4f30-4374-9b08-3d51bab7102e.png">
 
+## Hackathons
+
+### AWS Hackathon (2022)
+
+In a hackathon, we built a smart home energy-saving solution using AWS services integrated with the IoT devices which balances the energy load and reduces the electricity bill by 30-40% with this solution which solves a real-life problem we conquer the AWS hackathon 2022 and became the champions.
+
+<img width="877" alt="Screenshot 2023-03-12 at 4 42 17 PM" src="https://user-images.githubusercontent.com/84739698/224552135-2b2a5c46-59d4-4655-bec0-8d0a97e81e61.png">
+
+
+### Microsoft Inclusive city hackathon (2022)
+
+As a hackathon participant, I'm thrilled to have won with my burnout recovery app created using Microsoft Power Apps. It was a challenging yet rewarding experience to design an app that could make a positive impact on people's lives. I'm proud to have used my technical skills and creativity to develop a tool that can help individuals struggling with burnout.
+
+Using Microsoft Power Apps was a fantastic choice as it allowed me to create the application quickly and efficiently. The platform's drag-and-drop interface made designing and developing the app an enjoyable experience, and I was able to focus on creating features that are useful to users. The win is a testament to my problem-solving abilities, attention to detail, and my desire to make a difference.
+
+https://user-images.githubusercontent.com/84739698/224553082-672a98df-829d-4cef-9dc2-fdca9afe652d.mov
 
 ##  Status
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishu-8104&show_icons=true&locale=en&layout=compact" alt="rishu-8104" /></p>
