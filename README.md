@@ -53,6 +53,10 @@ This C++ program allows users to book hotel rooms, view all booked rooms, search
 
 <img width="477" alt="Screenshot 2023-03-12 at 5 21 11 PM" src="https://user-images.githubusercontent.com/84739698/224554486-2354446a-6205-45d9-bcf6-81a574845f61.png">
 
+### Arduino 
+<blockquote class="embedly-card"><h4><a href="<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7007706425317584896" height="950" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>">Autonomous Veichel</a></h4><p></p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 
 ## Hackathons
 
