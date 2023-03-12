@@ -23,6 +23,30 @@
 ## Languages and Tools:
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+## Education
+
+### Bachelor's degree in Software Engineering, Tampere University of Applied Sciences
+- Relevant courses:  
+  - Object-Oriented Programming (C++, Java)
+  - Data Structures and Algorithms
+  - Computer Networks
+  - Embedded Systems
+  - Data Analytics and Machine Learning
+  - Data Systems and Analysis
+  - Web Software Production
+  - Introduction to Cybersecurity
+  - Server Technology (Linux operating system)
+
+### Cambridge Public School (Senior Secondary Education)
+- Relevant courses:
+  - Physics
+  - Chemistry
+  - Mathematics
+  - Computer Science
+
+### Brcm Public School (High Schooling)
+
+
 ## Projects
 
 ### Burger House Restaurant UI
@@ -53,9 +77,12 @@ This C++ program allows users to book hotel rooms, view all booked rooms, search
 
 <img width="477" alt="Screenshot 2023-03-12 at 5 21 11 PM" src="https://user-images.githubusercontent.com/84739698/224554486-2354446a-6205-45d9-bcf6-81a574845f61.png">
 
-### Arduino 
-<blockquote class="embedly-card"><h4><a href="<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7007706425317584896" height="950" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>">Autonomous Veichel</a></h4><p></p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+### Arduino Smart Vehicle
+
+Advanced programming skills using Arduino in an embedded environment were gained through the course, and a smart car was created as the final project. The final project represented ten smaller projects completed during the semester, including joystick control, an AD converter, an encoder and level shifter, an I2C bus, a UART serial bus, a PWM, etc. In the final project, the ESP 8266 wifi module was utilized to receive control input from the internet, and the received data was passed to an Arduino Mega to drive the vehicle.
+
+https://user-images.githubusercontent.com/84739698/224563379-ffebe21d-e855-42b9-a896-3fdee9841ebe.mp4
+
 
 
 ## Hackathons
@@ -64,7 +91,7 @@ This C++ program allows users to book hotel rooms, view all booked rooms, search
 
 In a hackathon, we built a smart home energy-saving solution using AWS services integrated with the IoT devices which balances the energy load and reduces the electricity bill by 30-40% with this solution which solves a real-life problem we conquer the AWS hackathon 2022 and became the champions.
 
-<img width="877" alt="aws" src="https://user-images.githubusercontent.com/84739698/224552135-2b2a5c46-59d4-4655-bec0-8d0a97e81e61.png">
+<img width="600" alt="aws" src="https://user-images.githubusercontent.com/84739698/224552135-2b2a5c46-59d4-4655-bec0-8d0a97e81e61.png">
 
 
 ### Microsoft Inclusive city hackathon (2022)
