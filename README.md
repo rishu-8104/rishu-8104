@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Cloud computing (AWS),Android/Ios app development.**
 
-- 👯 I’m looking to collaborate **on building innovative software solutions**
+- 👯 I’m looking to collaborate **on building innovative software solutions.**
 
-- 💬 Ask me about **react,Arduino,Full stack Development(MERN)**
+- 💬 Ask me about **react ,Arduino ,Full stack Development(MERN).**
 
 - 📫 How to reach me **rishugupta8104@gmail.com**
 
@@ -29,13 +29,13 @@
 
 This HTML and CSS project is a UI for a fictional restaurant called Burger House. It features a homepage with information about the restaurant, a menu page with all available items and prices, and a contact page with a form for customers to send inquiries.
 
-<img width="1395" alt="Screenshot 2023-03-12 at 4 11 19 PM" src="https://user-images.githubusercontent.com/84739698/224550291-3696efe8-6421-421e-b46b-869f4b6d6687.png">
+<img width="1395" alt="ui" src="https://user-images.githubusercontent.com/84739698/224550291-3696efe8-6421-421e-b46b-869f4b6d6687.png">
 
 ### Astronomy Picture of the Day (APOD) Dashboard
 
 This website displays the latest image and description provided by NASA's APOD API. Each day, a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-<img width="1440" alt="Screenshot 2023-03-12 at 4 16 36 PM" src="https://user-images.githubusercontent.com/84739698/224550519-9a015a87-d11f-481c-a2e4-45ea83fa62a2.png">
+<img width="1440" alt="apod" src="https://user-images.githubusercontent.com/84739698/224550519-9a015a87-d11f-481c-a2e4-45ea83fa62a2.png">
 
 ### Games projects
 
@@ -45,7 +45,7 @@ This website displays the latest image and description provided by NASA's APOD A
 2. A simple web application that allows users to play drums using their keyboard or by clicking on the drum buttons on the screen.
 3. A simple web application that allows two players to play a dice game. The players can roll the dice and the player with the higher number wins.
 
-<img width="1344" alt="Screenshot 2023-03-12 at 4 24 46 PM" src="https://user-images.githubusercontent.com/84739698/224550985-86dddf03-4f30-4374-9b08-3d51bab7102e.png">
+<img width="1344" alt="game" src="https://user-images.githubusercontent.com/84739698/224550985-86dddf03-4f30-4374-9b08-3d51bab7102e.png">
 
 ## Hackathons
 
@@ -53,7 +53,7 @@ This website displays the latest image and description provided by NASA's APOD A
 
 In a hackathon, we built a smart home energy-saving solution using AWS services integrated with the IoT devices which balances the energy load and reduces the electricity bill by 30-40% with this solution which solves a real-life problem we conquer the AWS hackathon 2022 and became the champions.
 
-<img width="877" alt="Screenshot 2023-03-12 at 4 42 17 PM" src="https://user-images.githubusercontent.com/84739698/224552135-2b2a5c46-59d4-4655-bec0-8d0a97e81e61.png">
+<img width="877" alt="aws" src="https://user-images.githubusercontent.com/84739698/224552135-2b2a5c46-59d4-4655-bec0-8d0a97e81e61.png">
 
 
 ### Microsoft Inclusive city hackathon (2022)
