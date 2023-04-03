@@ -124,7 +124,5 @@ https://user-images.githubusercontent.com/84739698/224553082-672a98df-829d-4cef-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishu-8104&" alt="rishu-8104" /></p>
 
-## Licenses & Certification
-<p><a href="https://www.credly.com/badges/490368a8-ece8-4aa7-9930-5121c3364c60/linked_in_profile" target="blank"><img width="470" height="400" align="left" alt="network" src="https://user-images.githubusercontent.com/84739698/224546925-deb33d41-6bcc-4c44-8e33-621efa6d901c.png"></a><a href="https://www.hackerrank.com/certificates/420398b61342" target="blank"><img align="right" width="470" height="400" alt="py" src="https://user-images.githubusercontent.com/84739698/224547132-2f6914fe-2f09-42d8-80e9-3ed8dda83b97.png"></a><img align="left" width="470" height="400" alt="guvi" src="https://user-images.githubusercontent.com/84739698/224547322-0c33550a-bfde-4c2e-a4a8-572c6f0d0ff6.png"><img align="right" width="470" height="400" alt="" src="https://user-images.githubusercontent.com/84739698/224547360-dbdb983e-4d1c-4919-bc6c-ce4625fad88c.png"><img align="left" width="470" height="400" alt="" src="https://user-images.githubusercontent.com/84739698/224547441-fea7d081-595c-4232-b3a5-86aba40ad58d.png"><img width="470" height="400" align="right" alt="" src="https://user-images.githubusercontent.com/84739698/224548347-d12b83f3-ec7e-483f-be8b-9ec138d22d1f.png"></p>
 
 
