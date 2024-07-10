@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishu Kumar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
-- 🔭 I’m currently working on **Smart Parking Solution**
 
 - 🌱 I’m currently learning **Cloud computing (AWS),Android/Ios app development.**
 
