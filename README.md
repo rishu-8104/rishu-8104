@@ -36,15 +36,6 @@
   - Introduction to Cybersecurity
   - Server Technology (Linux operating system)
 
-### Cambridge Public School (Senior Secondary Education)
-- Relevant courses:
-  - Physics
-  - Chemistry
-  - Mathematics
-  - Computer Science
-
-### Brcm Public School (High Schooling)
-
 
 ## Projects
 
