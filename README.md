@@ -2,11 +2,9 @@
 <h3 align="center">A passionate Full stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
-- 🌱 I’m currently learning **Cloud computing (AWS),Android/Ios app development.**
+- 🌱 I’m currently learning **intersection of web technologies and artificial intelligence.**
 
 - 👯 I’m looking to collaborate **on building innovative software solutions.**
-
-- 💬 Ask me about **react ,Arduino ,Full stack Development(MERN).**
 
 - 📫 How to reach me **rishugupta8104@gmail.com**
 
