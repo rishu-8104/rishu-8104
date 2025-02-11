@@ -23,16 +23,6 @@
 ## Education
 
 ### Bachelor's degree in Software Engineering, Tampere University of Applied Sciences
-- Relevant courses:  
-  - Object-Oriented Programming (C++, Java)
-  - Data Structures and Algorithms
-  - Computer Networks
-  - Embedded Systems
-  - Data Analytics and Machine Learning
-  - Data Systems and Analysis
-  - Web Software Production
-  - Introduction to Cybersecurity
-  - Server Technology (Linux operating system)
 
 
 ## Projects
