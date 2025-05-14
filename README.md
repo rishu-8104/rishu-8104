@@ -39,6 +39,21 @@ AI-powered platform designed to help job seekers optimize their resumes, generat
 
 <img width="1300" alt="Screenshot 2025-05-14 at 13 04 16" src="https://github.com/user-attachments/assets/10c33f10-9d0a-4398-98af-986ee3aa4723" />
 
+### LinguaBridge
+
+Multilingual Blog Platform
+Create and manage blog posts in both English and Finnish with a seamless user experience.
+
+Automatic Translation
+Content is automatically translated between languages using Google's Gemini 1.5 Flash API, saving you time and effort.
+
+Language Switching
+Switch between languages with a simple toggle to view all content in your preferred language.
+
+Global Accessibility
+Make your content accessible to speakers of both languages without manual translation work.
+
+<img width="1040" alt="image" src="https://github.com/user-attachments/assets/c0957297-17fc-4e17-bde8-63160b709d02" />
 ### Magic Caption
 
 AI-powered social media caption generator that creates engaging, platform-optimized captions for images. Features real-time preview and supports multiple social platforms including Instagram, Twitter, and LinkedIn.
@@ -57,22 +72,6 @@ Your one-stop platform for convenient, reliable home services in Tampere. Connec
 A digital loyalty platform is revolutionizing how businesses reward their customers. Transform traditional punch cards into a seamless digital experience.
 
 <img width="1422" alt="image" src="https://github.com/user-attachments/assets/65316a3b-0b41-4e3c-b86e-d5fa376b6d4f" />
-
-### LinguaBridge
-
-Multilingual Blog Platform
-Create and manage blog posts in both English and Finnish with a seamless user experience.
-
-Automatic Translation
-Content is automatically translated between languages using Google's Gemini 1.5 Flash API, saving you time and effort.
-
-Language Switching
-Switch between languages with a simple toggle to view all content in your preferred language.
-
-Global Accessibility
-Make your content accessible to speakers of both languages without manual translation work.
-
-<img width="1040" alt="image" src="https://github.com/user-attachments/assets/c0957297-17fc-4e17-bde8-63160b709d02" />
 
 ### Burger House Restaurant UI
 
