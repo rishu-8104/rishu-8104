@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rishu Kumar</h1>
-<h3 align="center">A passionate Full stack developer</h3>
+<h3 align="center">Full Stack Developer Who Bridges Web and AI</h3>
 <img align="right" alt="coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
-- 🌱 I’m currently learning **intersection of web technologies and artificial intelligence.**
+- 🌱 I’m currently learning **Passionate about creating scalable applications and exploring the intersection of web technologies and artificial intelligence.**
 
 - 👯 I’m looking to collaborate **on building innovative software solutions.**
 
